@@ -1,4 +1,4 @@
-//challenges ---- this is bugs corrected verilog file--all bugs are rectified
+//challenges ---- this is bugs corrected verilog file--all bugs are rectified without changing any module and file name
 //all challanges are rectified
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
