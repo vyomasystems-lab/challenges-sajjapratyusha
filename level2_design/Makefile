@@ -1,5 +1,5 @@
 # See LICENSE.vyoma for details
-#-------------------------------module name,file name are not changed in code---------------
+#-------------------------------module name,file name are not changed in code so in make file no change ---------------
 
 TOPLEVEL_LANG ?= verilog
 
