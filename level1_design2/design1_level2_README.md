@@ -1,4 +1,4 @@
-//challenges:no challenges found-the sequence 1011 is non buggy file---all errors are modified without changing file and module names
+//challenges:no challenges found-the sequence 1011 is buged 
 
 module seq_detect_1011(seq_seen, inp_bit, reset, clk);
 
