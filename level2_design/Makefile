@@ -1,4 +1,5 @@
 # See LICENSE.vyoma for details
+#-------------------------------module name,file name are not changed in code---------------
 
 TOPLEVEL_LANG ?= verilog
 
