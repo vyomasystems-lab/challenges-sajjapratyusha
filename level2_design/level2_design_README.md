@@ -1,4 +1,4 @@
-//challenges ---- non buggy file
+//challenges ---- this is bugs corrected verilog file--all bugs are rectified
 //all challanges are rectified
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
