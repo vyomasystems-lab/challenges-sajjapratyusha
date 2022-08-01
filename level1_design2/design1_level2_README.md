@@ -1,4 +1,4 @@
-//challenges:no challenges found-the sequence 1011 is buged 
+//challenges:no challenges found-the sequence 1011 is buged ---and python file is also verified
 
 module seq_detect_1011(seq_seen, inp_bit, reset, clk);
 
