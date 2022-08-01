@@ -1,5 +1,5 @@
 //challenges ---- this is bugs corrected verilog file--all bugs are rectified without changing any module and file name
-//all challanges are rectified
+//all challanges are rectified.// and python file is also verified
 
 module mkbitmanip(CLK,
 		  RST_N,
