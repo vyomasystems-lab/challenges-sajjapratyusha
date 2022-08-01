@@ -1,25 +1,5 @@
 //challenges ---- this is bugs corrected verilog file--all bugs are rectified without changing any module and file name
 //all challanges are rectified
-`timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 08/01/2022 09:32:08 AM
-// Design Name: 
-// Module Name: design3
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
 
 module mkbitmanip(CLK,
 		  RST_N,
