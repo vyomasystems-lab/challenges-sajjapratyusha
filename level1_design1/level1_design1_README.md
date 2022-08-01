@@ -1,7 +1,7 @@
 //challanges: 
 //     5'b11110: out=inp30; is missed -------this is also recitified
 //     here we didn't give any space between always and @ ----this error is also rectified
-
+//python file is also tested or verified
 
 
 
